@@ -1,0 +1,9 @@
+﻿VehicleIntegrationTests/bin
+VehicleIntegrationTests/obj
+VehicleUnitTests/bin
+VehicleUnitTests/obj
+VehicleWebApp/.vs
+VehicleWebApp/bin
+VehicleWebApp/obj
+VehicleWebApp/appsettings.json
+VehicleWebApp/appsettings.Development.json
